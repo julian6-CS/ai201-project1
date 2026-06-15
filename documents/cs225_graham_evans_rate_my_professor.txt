@@ -1,0 +1,128 @@
+[source: https://www.ratemyprofessors.com/professor/2254924]
+[source_type: RateMyProfessor]
+[Course: CS225]
+
+Professor: Graham Evans
+Course: CS225
+
+Review Date: Mar 9th, 2026
+Quality: 4.0
+Difficulty: 4.0
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+
+Review:
+MPs and exams need a lot of effort, but grading is fair.
+
+Tags:
+Lots of homework
+Extra Credit
+
+
+
+Professor: Graham Evans
+Course: CS225
+
+Review Date: Jun 29th, 2025
+Quality: 3.0
+Difficulty: 4.0
+Attendance: Not Mandatory
+Grade: B-
+
+Review:
+He is memorable for playing music before the lectures start. What I appreciate about this professor is that he responds to students quickly on Discord. I thought his lectures were just okay.
+
+Tags:
+EXTRA CREDIT
+Online Savvy
+
+
+
+Professor: Graham Evans
+Course: CS225
+
+Review Date: May 23rd, 2025
+Quality: 1.0
+Difficulty: 3.0
+Attendance: Not Mandatory
+Grade: A
+
+Review:
+looked at prof solomon's slides from previous semesters instead of evan's useless lectures. loved the extra credit, hated that labs and mps were due so close together (sunday vs monday), exams were okay.
+
+Tags:
+EXTRA CREDIT
+
+
+Professor: Graham Evans
+Course: CS225
+
+Review Date: Jan 25th, 2025
+Quality: 1.0
+Difficulty: 3.0
+Attendance: Not Mandatory
+Grade: Not sure yet
+
+Review:
+I took his CS173 and CS225. He canceled the drop for a quiz, added a tutorial section in CS173, and increased the percentage of exams in CS225. In short, he sucks. Btw, he cannot give good lectures. His explanation to CS225 lacks logistics. He cannot even defend his own proof when some students ask questions in CS173.
+
+Tags:
+Tough grader
+Test heavy
+
+
+
+Professor: Graham Evans
+Course: CS173
+
+Review Date: Dec 22nd, 2024
+Quality: 2.0
+Difficulty: 4.0
+Attendance: Not Mandatory
+Grade: A-
+
+
+Review:
+I would rather transfer to purdue then take this class again. This class sucks, he does not teach, there are 500 kids in each section and 30-50 kids go to lecture, that should say something. Self taught myself the entire class based on the online videos.
+
+Tags:
+Tough grader
+Get ready to read
+Test heavy
+
+
+
+Professor: Graham Evans
+Course: CS225
+
+Review Date: Apr 24th, 2024
+Quality: 1.0
+Difficulty: 3.0
+Attendance: Not Mandatory
+Grade: A
+
+Review:
+He does not post slides and often makes mistakes in lecture. Exams and lectures are riddled with spelling mistakes. I emailed the professors twice about an issue I had and nobody responded. Lectures are barely relevant to the MPs and are insanely boring. Tough class, but rewarding if you put in the work. He just makes it hard to learn.
+
+Tags:
+Extra Credit
+
+
+
+Professor: Graham Evans
+Course: CS225
+
+Review Date: Jan 25th, 2024
+Quality: 1.0
+Difficulty: 5.0
+Attendance: Not Mandatory
+Grade: Not sure yet
+
+Review:
+lectures are literally awful. how do you lecture with BLANK SLIDES to 900+ people. this impedes my learning heavily and he does not have clear talking points whatsoever. better use of my time to self study out of class, disappointing for such a good cs program at uiuc.
+
+Tags:
+Extra Credit
+Clear grading criteria
+Lots of homework

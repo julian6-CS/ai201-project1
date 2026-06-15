@@ -1,0 +1,22 @@
+[source: https://www.reddit.com/r/UIUC_MCS/comments/15fwc2n/cs_425_distributed_systems/]
+[source_type: reddit]
+[Course: CS425]
+
+Title: CS 425 Distributed Systems
+
+Post:
+For those who took this course, how difficult was it if you didn't have prior C/C++? I'm starting to practice C, but wasn't sure if that would help me a ton.
+
+It sounds like this course is very theoretical, so I was hoping to get some advice on how to prepare and if the course was worth it or not. Thanks in advance!
+
+comment:
+I took it with Indy without much C/C++ knowledge at that point. Best course I’ve taken by far. As far as I know there was no requirement for C/C++ anywhere. The lectures are well delivered, the hws a lot of work (start early) and the MPs(also take quite some time) can be done in any language. I’m curious what made you think you had to know C/C++?
+
+comment:
+My personal experience was horrible. The course and knowledge per se are very important concepts for developers. But I felt the ignorance and arrogance from Indy when I have concept questions about the lectures. He assumed we known these and assumed everything was in the lecture but unfortunately he didn’t articulate what he supposed to explain. I felt very frustrated. Purely pursuit of knowledge, but felt so hard! I know that teaching is quite challenging, I attended some classes that instructors are really talented to deliver msg. But I have to say, if you’re incapable of teaching in a good way, don’t do that.
+
+comment:
+I took the on campus course in Fall 2022 with Indy and its the best course I have taken in college. I think the programming language requirements were very fluid so it should not be a huge concern if you are unfamiliar with C. I personally coded my MPs in Python and all went well.
+
+comment:
+I saw system programming is the prerequisite. I didn’t take either system programming or operating system before and I wonder how much contents in 425 are related to them. Thanks!

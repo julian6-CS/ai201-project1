@@ -1,0 +1,48 @@
+[source: https://www.reddit.com/r/UIUC/comments/17f0h3d/how_do_people_do_so_well_in_cs421/]
+[source_type: reddit]
+[Course: CS421]
+
+Title: How do people do so well in CS421???
+
+Post:
+
+I'm currently in CS421 and it is the most soulcrushingly boring and theoretically confusing course I have had the displeasure of taking so far. I see the average GPA in the course and am baffled at how people can whip out 100%'s in this course. I don't learn anything in lecture, I don't learn anything with the MP's, and I don't learn when I'm shitting my pants for a 20 minute quiz that's literally just the same thing as the MP. I also don't WANT to learn this stuff, which is perhaps my biggest issue. This class is boring, functionally (pun intended) useless for most CS students, and it should be relegated to tech electives where it belongs.
+
+No idea why this is part of the core CS curriculum or why it is taught like this. Does anyone else have trouble or is this just me? I don't want to go to office hours because I don't want to waste their time with a student who just wants answers fed to them. I just wanna pass. I get the midterms are 1 to 1 copies of the MP's but the MP's are also annoying and unintuitive.
+
+Yours truly,
+
+person done with CS but still wanting the degree
+
+comment:
+Hi! I'm currently taking 421 and while I do agree the lectures are a bit monotonous, I think there's real value in the content. What has helped me ace the midterms and MPs so far is to really spend time on each of the WAs.
+
+For example, the quiz this week is about implementing unification in ocaml, and the WA from last week was about performing unification manually, step by step. That really helped reinforce how the algorithm works and helped me breeze through this MP.
+
+Please reach out to the instructors or TAs, they are very happy to help you stay on track. UIUC is known for pioneering advanced PL technology (like LLVM), and it makes me really happy to be able to learn a small part of that. Good luck for the quiz!
+
+comment:
+I'm a TA for this course, and I've spoken with other students who have raised similar concerns. If you're struggling to understand how to do the MPs in particular, please come to our office hours. I'd be happy to help!
+
+Don't worry about wasting the TAs time, that's what we're paid for :-)
+
+comment:
+I have written several recursive descent parsers in the industry (https://github.com/nextcapital/copy-service), fwiw. This stuff is actually useful and important, even if it may not seem like it now.
+
+comment:
+I’m in this class too. I think the teacher does a bad job at teaching. It’s like CS 374, but instead of a few hard concepts, it’s a bunch of easy concepts that are terribly explained
+
+comment:
+While I cant comment on this course itself, as I have not taken it, I WILL say that functional programming is not dead and still has its uses. For example, because pure functions do not have side effects, they are easily parallelizable. This is useful for applications such as ML where nearly everything is parallelized to an extreme degree.
+
+I was in ECE and thus never got around to functional programming at UIUC, however in grad school I have learned it. Im honestly glad I did as it made me think differently about programming all together. Sure, maybe it should be an elective, but saying its completely useless and should be ignored is just wrong.
+
+comment:
+I think learning functional programming is useful. The execution of the class is just generally bad. When I took it we had to implement OCAML using OCAML when it probably would have been better to let us implement a programming language we were familiar with.
+
+comment:
+100% agree. IMO this should be an elective class and not a requirement since most of the skills you learn in the class won’t apply in your future day to day life unless you end up in a super specific sub field in (which 99% of all people who take the class won’t end up with). When I took it last year, I just had to push through, get the grade I got, and move on. The one saving grace was that like you mentioned the exam is just like the MP’s so if you can memorize/understand it, you’ll be fine grade wise. Good luck with the class!
+
+comment:
+This class is def not useless. Highly important and applicable if you want to go into any area of SWE. U may not need to know every detail but if u go into a swe job without knowing what deadlock is and what’s a TCP handshake, other swes will be like how tf were u hired lol.
+

@@ -1,0 +1,45 @@
+[source: https://www.reddit.com/r/UIUC/comments/v80plw/tips_to_thrive_in_cs_374/]
+[source_type: reddit]
+[Course: CS374]
+
+Title: Tips to thrive in CS 374
+
+Post:
+If you're CS, ECE, or CS + X, chances are you have known that CS 374 has a reputation for being quite a difficult required class. Some of you might become worried about it. Some students will just try to learn the material during lectures. Other students, like me, might be more proactive and try to absorb more material beforehand. Doing well in CS 374 is not just about the material. It's also about studying properly and utilizing everything that you have in your disposal correctly.
+
+Your Resources
+
+You have quite a few good resources at your disposal. Jeff Erickson's book is definitely great. You also have past lecture recordings. And of course, you have your lectures and labs, which definitely should attend - especially those labs.
+
+Jeff Erickson has thirty-nine hours of lectures, I think including exam/hw review, that you can watch before the semester begins at 2x or 3x speed. This are Spring 2018 recordings; however I would believe that the material likely hasn't changed much since. Here's all of them here: https://classtranscribe.illinois.edu/offering/3d635bfa-39a7-4255-823c-8e44a42382c5#plid=57baaec8-05ea-4c47-a396-b934d6eea97f&mid=5cf4fb37-4309-47a9-b580-a30a73e4dfa4
+
+How I created my cheat-sheets
+
+I wrote down concepts with formulas, pseudocode boilerplates/formats, and general tips for solving particular problems. When working on practice exams (which I highly recommend before the exams), I always write down something that I would want to include in (i.e. having a small "brute force" case for input size < 15 for divide and conquer) the cheat sheet so I can look back and reference it. The purpose of that cheat sheet is for you to save time so you don't have to derive concepts all over again in your head during the exams, if you haven't memorized these concepts already.
+
+I usually summarize and copy down pseudocode from Jeff Erickson's book. In an exam, you don't want to worry how you're going to format and make your pseudocode clear and concise to the TAs grading them.
+
+Working on Homework Problems
+
+If you're working in a homework group, try to have everybody individually look at the problem before coming altogether to solve the problem. You will get a lot of practice solving and writing proofs by yourself, which you need for the exams.
+
+Don't solo homework problems. You will miss out the opportunity to learn from your classmates on problem-solving techniques and other students might want to understand how you think. Having another pair of eyes to look at your solutions gives you the peace of mind when you need to submit problems because they might see problems that you didn't see.
+
+I always start homework the day that they are released. I usually take a good look on them before lecture/labs, to understand the gist of the problem and think about what tools I need to learn from lecture/lab to solve it. Lecture and lab time are great times for you to understand how to format and formalize your homework solutions, and understand the problem-solving techniques to use on your homework.
+
+Final Tips
+
+Be active on the class Discord or Piazza or whatever communication platforms there are. Your fellow students might be posing questions that you want to know about the homework, and their discussion might also point out potential holes in your approach, such as possible problems that you might encounter with the runtime of your solution.
+
+Lastly, CS 374 is not the only class you'll be taking nor is it the only thing that matters in life. Have fun, be around with friends, and take care of yourself. Taking good care of yourself will make you more productive and more prepared to take exams or do problems than any study session ever will. (Even if you didn't perform too hot on a homework problem, the class drops the lowest 20% of your HW problems. Look at them as opportunities to learn.)
+
+comment:
+If you are watching an entire semester of lectures before actually taking the class you’re doing it wrong. 374 is not some insane behemoth of a class. it’s a pretty reasonable curriculum for a subject that just doesn’t come easy to some.
+
+if you want to do well in 374 then stop freaking out about it, and just use the resources the class gives you during the semester. there is a ton of review built in to the class (labs + discussions) and with a reasonably good homework group and a decent amount of focus you’ll be just fine.
+
+comment:
+Or take the ece version with Kani where the grading is fucked and average is an A-
+
+comment:
+Hello, this is a wonderful post! But just wondering, do you know if there’s a public access for the CS 225 Lectures?

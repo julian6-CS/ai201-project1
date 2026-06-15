@@ -1,0 +1,182 @@
+[source: http://uiucmcs.org/courses/CS-425-Distributed-Systems-(Cloud-Computing-Concepts)]
+[source_type: UIUC_MCS_Reviews]
+[Course: CS425]
+
+Class: CS 425 - Distributed Systems (Cloud Computing Concepts)
+Date: 12/23/2025, 6:46 PM
+Estimated Time: 18 hrs/wk
+
+Final Grade: A-
+
+Topics in the course are important concepts in cloud technologies such as consensus problems, so I found it useful and learn a lot. As others mentioned, Prof. Indy and TAs are very supportive and passionate about the theme, which makes great learning experience. One of the best course I took in this program.
+
+It has various type of tasks and each has different due so you need to read syllabus carefully and manage your schedule ahead. Here are list in this term.
+- 4 Assignments: Questions are testing if we really understand the topic. I love it though it was tough to tackle. Better to start early
+- Coursera quiz: 1 per 1 week. Multiple questions and not so hard
+- 2 Exams on Coursera: Basically bunch of questions similar to the quiz. Not so hard as long as you review quiz
+- 2 written exams: Questions similar to assignments. Time allocation is important as it's tight
+- 2 Machine problems: Programming assignments.
+
+
+
+
+Class: CS 425 - Distributed Systems (Cloud Computing Concepts)
+Date: 12/16/2025, 11:34 PM
+Estimated Time: 11 hrs/wk
+
+Final Grade: None
+
+This is my favorite class I've taken in the program.
+
+- The content is highly relevant for anyone working (or who wants to work) in software at most firms in today's day and age. It covers a wide swath of material while not remaining purely a surface-level look at the material.
+- Professor Indy clearly loves this material, the slides and lectures are high quality, and the course support is very responsive. Grading is also quick. This class is clearly taught and organized by instructors who know what they are doing.
+- The workload is decent but is absolutely manageable, with some quieter weeks and some very busy ones (the 2 weeks before the midterm and final are rough). The assignments themselves can be tough but they are not a slog and can be quite rewarding. The open-ended nature of the HWs and coding projects force you to really understand the course material in order to succeed.
+- The tests are no joke. They are timed but not proctored (which is convenient), but the strategy the instructor took knowing the open-book nature of them is to absolutely pack them with questions. I think it's fair, but even as someone who generally does well on tests with tight timelines, I found the ones in this class particularly challenging.
+- This is run for the Online MCS students concurrently with several other groups taking slightly different variants of this class, so there is a LOT of communication in this course going on constantly and requires some amount of sifting through. The good news is this means the instructors are basically always on Piazza and will respond to any question you have quickly.
+
+All in all a great course, with both tough and rewarding components. If you're in the Online MCS, this class is a must-take.
+
+
+
+
+Class: CS 425 - Distributed Systems (Cloud Computing Concepts)
+Date: 1/20/2025, 7:27 PM
+Estimated Time: 12 hrs/wk
+
+Final Grade: None
+
+This class was a great introduction into cloud computing. Professor Indy definitely has a great passion for this topic and a refreshing sense of humor.
+
+HW:
+The four homeworks ranged in difficulty, I found the first one to be the hardest. Each were 10 questions in which you answered 8 and the highest three homeworks were counted for your grade. I would recommend trying your best for all of them as the midterm and final were similar in format. Start on these early and check piazza frequently
+
+MPs:
+There were two mps which I found were both rewarding to work on. They were in c++ and built off each other. I found the starter code was heavily built off c with direct memory interaction instead of c++ which was annoying. I would not feel comfortable doing these mps if I had little to no experience in c++.
+
+Midterm/Final:
+These were unproctored but there was a time limit that made these challenging. They were similar to the HWs.
+
+Lecture/Weekly Quizzes:
+The lectures were good though slightly outdated. Core concepts definitely still apply. The weekly quizzes were not difficult.
+
+Overall I would recommend this class and as someone with no cloud computing experience, It was a great jumping off point to explore the other classes UIUC offers and gain an understanding of the core concepts.
+
+
+
+
+Class: CS 425 - Distributed Systems (Cloud Computing Concepts)
+Date: 12/30/2024, 9:21 AM
+Estimated Time: 12 hrs/wk
+
+Note: This was my first course in the UIUC MCS (Online) program. My comments are regarding the Coursera version of the course specifically.
+
+Pros: Overall I found this course to be an excellent learning opportunity and addressed a wide range of topics in distributed systems. My sentiments echo what other reviews have stated, mainly that professor Indy was very knowledgeable and had engaging lectures. All of the exams were open-note and unproctored, which was appreciated given the range of topics that the course covered. I can't decide if the two main programming assignments were a pro or con for me. I had no previous experience with C++ so it was neat to learn and definitely challenging for me. The first assignment (Gossip Protocol) was very useful in solidifying this concept for me, but I didn't find the second assignment (Distributed Key-Value store) to be as useful. It didn't really reinforce the topic that much beyond what we learned in class, and felt kind of unnecessary. Also, I couldn't help but be a little jealous of the in-person students who had a semester-long, multi-part project that seemed much more interesting than what we were doing. That being said, I still enjoyed the projects I did.
+
+Cons: I had basically 0 interaction with the teaching staff outside of submitting regrade requests, which I submitted on basically every assignment. I found the grading to be quite harsh, with very little partial credit given. On every homework and the midterm exam, I had problems were there was a minor mistake yet I lost about 50-90% of the points available for that problem. I didn't feel as though it accurately reflected my understanding of the material. Fortunately, a lot of the time the TAs accepted my regrade requests, so I would definitely suggest for all students to advocate for themselves this way. Also, I was pleasantly surprised by my final grade in the course, so I think there was a fairly generous curve (Professor Indy said the class averages around a B+).
+
+TLDR:
+I highly recommend this course to anyone interested, it is not particularly difficult (even for someone with no previous CS degree or C++ background like myself) but graded a bit strictly.
+
+
+
+
+Class: CS 425 - Distributed Systems (Cloud Computing Concepts)
+Date: 4/30/2024, 2:12 PM
+Estimated Time: 6 hrs/wk
+
+Instructor: Radhika Mittal
+Time: 2024 Spring
+
+The course policies are particularly unfair to 3-credit students, who must complete all homework assignments without the option to drop the lowest grade. Despite that the grading standard is strict where reasonable replies would still receive no credit, there is a noticeable lack of TA support for homework-related inquiries on Campuswire. Even when questions were replied by an anonymous student with wrong answers, no TA intervened to provide official clarification while they just marked the questions to be "resolved". This neglect is especially problematic given the frequent ambiguities in the homework. As a result, we 3-credit students are often left to guess the graders' expectations with the little help that we can gain which makes the grades of HWs especially frustrating.
+Sometimes what we learn in class doesn’t match up with the homework solutions. Like in one of the HW, the official method we were taught only got partial credit.
+Often in campuswire, TAs' replies tell us to consider certain things that end up to be the opposite in the actual grading. This has really confused me and honestly, it's stressful every time I see the grading criteria and I know a lot of students are complaining about this. These kinds of controversy keep happening, and it's super frustrating to argue with TAs through regrade requests where they usually just brush it off by saying my solution is 'sub-optimal' without explaining why.
+All the things added up made me feel that they just want to take off your scores. I wouldn't recommend any of my friends to take the spring version of this course.
+
+
+
+Class: CS 425 - Distributed Systems (Cloud Computing Concepts)
+Date: 12/31/2023, 10:27 PM
+Estimated Time: 8 hrs/wk
+
+Instructor: Gupta, Indranil (Indy)
+
+DISCLAIMER: This review is only relevant for the Fall 2023 iteration and may not hold for future iterations.
+
+Weekly Time Breakdown:
+Total: 136.72 hr, Mean: 8.04 hr, Min: 0.82 hr, Max: 16.7 hr, SD: 3.9 hr
+
+Background:
+- 6th course in the MCS program
+- Only course this term
+- Full time Software engineer (> 5 YoE)
+- Employer covering tuition
+
+I took this course as I had not taken a formal course in distributed systems.
+
+Grade Breakdown:
+- 20% Weekly Quizzes
+- 9% Final Quizzes (2x)
+- 13% Programming Assignments (2x)
+- 26% Homeworks (4x)
+- 10% Midterm Exam
+- 22% Final Exam
+
+Material:
+The course is a survey course covering various topics in distributed systems. It's divided into two parts. The first part covers topics like MapReduce, Gossip, Failure Detection, KV-Stores, Time Synchronization, and Ordering. The second part covers topics like Multicast Ordering, Consensus, Leader Election, Mutual Exclusion, Concurrency Control, and light treatment of File Systems, Security, and outage case studies topics.
+
+Lectures:
+All lectures are given by Indy. The slides and videos on Coursera haven't been updated for some time, so there may still be errors in the slides. In this case, I would recommend cross-referencing with the slides given to students in the in-person version of this course. Also, the in-person lectures are recorded and the recordings can be useful to review on occasion if the corresponding Coursera lecture is not clear. Generally, the Coursera lectures match up with the on-campus version, with MapReduce examples being a notable exception.
+
+The lecture slides by themselves are incomplete; you need to also watch the lecture video to glean the additional material to complete the slides.
+
+There's a textbook for the course by Coulouris et al. It is challenging to read but can be a useful reference if you have the time to peruse it.
+
+There is typically 1-2 hours of lecture each week. Not too heavy but you will likely need additional time to re-watch certain parts and take notes.
+
+Support:
+This is the first course I took that uses Piazza instead of Campuswire. Piazza is miles better. Indy is quite responsive on Piazza, and more so than the TAs, in my view. However, student reading comprehension was sometimes poor (a problem not unique to this course), so Indy's responses tended to have condescending/passive-aggresive vibes.
+
+Both TAs and Indy hold office hours. But, not much comment on office hours as I did not attend any. However, from what I have heard, OHs are not well run. Students enter a Zoom waiting room and the TA sees each student individually. But this waitlist is completely opaque to waiting students, and it was often the case that OH ended with students still waiting.
+
+Quizzes:
+They are your usual weekly Coursera quizzes usually due the week they first appear. Unlimited attempts, and some questions change after each attempt, so recommend attempting the quizzes multiple times.
+
+There are two final quizzes, one due at the end of each part of the course. These are longer and are untimed, but only allow two attempts.
+
+Homeworks:
+The HWs are done solo. There were four of them in this semester, and usually had 2-3 weeks to complete them. The HW are written and you submit a PDF of your typed-out solutions to Gradescope. You can use LaTeX / MS Word / etc.
+
+Unlimited submissions allowed before the deadline.
+
+The HW problems are rather substantial and require time to review and think about the lecture material. The problems are more of the theoretical nature, and you will need to write out your reasoning clearly and sometimes provide a proof. You really want to start early on the HW.
+
+Programming Assignments:
+There were two assignments this semester. 1) Membership protocol 2) KV-store. Both assignments are done individually and are in C++. I hadn't touched C++ for a long time so the first assignment took more time than the second. I would say if you are coming from Python, then you should learn/review these C++ concepts: pointer arithmetic, copy vs reference, and pointer dereferencing.
+
+I learned a lot about doing these assignments but I feel that there could have been more assignments because technically speaking, these two assignments could be solved with the material from only the first part of the course.
+
+Tip: these assignments are not to be confused with the MPs that the on-campus students are required to do.
+
+Exams:
+I have to say that Indy is a real G with how he has set up the exams. Apparently, students in the prior year's offering (FA2022) had issues with ProctorU and the midterm, so he removed the ProctorU requirement for the final. Indy has continued the pattern this semester with no ProctorU for the exams.
+
+Both the midterm and final are open book and are done on Gradescope. Basically, when you open the exam on Gradescope, a timer starts, and you will be able to download a PDF with the questions. You need to type up your answers and submit a PDF to Gradescope before the timer expires. I'd recommend using MS Word due to the time crunch.
+
+Midterm covers material from the first part of the course. The timer was 100 minutes. It was pretty straightforward, and you get a practice midterm exam. The difficulty is similar to that in the HWs.
+
+Final covers material from the whole course, emphasis on the second part. The timer was 210 minutes. No practice exam was provided - only thing Indy said was the final is same format but proportionally longer. It was tough, the questions were basically the same type as the hardest HW problems. Doing these problems as if they were HW would likely take several hours, so you'll need to solve them really fast for the final. Thus, the final really tests your understanding of the material.
+
+To prepare for the exams, review the lectures and the homeworks. Then the quizzes.
+
+Tip: use MS Word and make sure that you can save the document as PDF before taking the exam.
+
+Conclusion:
+The course is a good introduction to various topics in Distributed Systems. Indy puts effort into teaching the course and has time for Coursera students on top of the on-campus students he teaches. You will get out of the course what you put into it.
+
+This course is also one of the hardest I have taken in the program thus far, but I liked it as it felt the closest in rigor comparable to the CS courses taken in my undergrad.
+
+Just like other courses in the program, this one is also in the "mile wide, inch deep" coverage of the topics. I thought the first part and the first half of the second part of the course were good. Beyond that, the material was pretty lacking and not at all really reinforced through HW or programming assignments. To be fair, the pattern also holds for the other courses I've taken in this program.
+
+I'd also say that this course is strictly inferior to the on-campus version, where students get to work on four MPs that actually involve multiple machines and are more "distributed systems" than the two programming assignments on Coursera. Material wise, this course is good, but the hands-on programming aspect is definitely lacking.
+
+P.S. The student review dated 2023-12-06 is for the on-campus version, so the MP comments should be ignored for the Coursera students reading this.
